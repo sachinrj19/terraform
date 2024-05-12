@@ -1,2 +1,2 @@
-# terrafrom
-This is my personal hands-on repo to pratice terraform
+# Terraform 
+This is my hands-on repo to practice Terraform
